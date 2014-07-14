@@ -6835,7 +6835,7 @@ public final class Settings {
         };
 
         /**
-         * Whether to enable quiet hours.
+         * Whether to enable quiet hours. (boolean)
          * @hide
          */
         public static final String QUIET_HOURS_ENABLED = "quiet_hours_enabled";
